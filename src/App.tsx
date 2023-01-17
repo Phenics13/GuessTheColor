@@ -1,8 +1,8 @@
 import { useEffect, useState } from 'react'
 import './App.css'
-import Title from './assets/components/Title';
-import Guess_color from './assets/components/Guess_color';
-import Answers from './assets/components/Answers';
+import Title from './components/Title';
+import Guess_color from './components/Guess_color';
+import Answers from './components/Answers';
 
 const getRandomColor = () => {
   let red = Math.random() * 255;

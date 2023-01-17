@@ -1,5 +1,5 @@
 import * as React from 'react';
-import title from '../img/GuessTheColor.png';
+import title from '../assets/img/GuessTheColor.png';
 
 const Title = () => {
     return (
